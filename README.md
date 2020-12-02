@@ -1,7 +1,9 @@
 
 # Project: Web, Mobile & Database Agency in React
 
-Intelligent software and apps that will help companies to growth and will help support our social resposability goal by investing money from our earnings in green companies, organic farms and education with a consciousness prospective.
+Web App - Single Web .
+
+Topic : Intelligent Web App Software and Mobile App Agency that will help companies to growth their businees and support social enviromental resposability projects by investing money from our earnings in green companies, organic farms and education with a consciousness prospective.
 
 ## Goal & Technologies
 
@@ -18,53 +20,31 @@ The dashboard shows an overview of the all services offered by the Agency.
 - Center : Agency's name and a brief introduction
 - Right: Google Map with markers at the positions of the blog posts
 
-![Dashboard](/img/dashboard.jpg)
+![Dashboard](/img/1.jpg)
 
 ### 2. Menu Bar
-- Menu bar : logo (of your choice) , headline , about us ,services , projects, Software Development Training programm, Contact us .
+- Menu bar : logo (of your choice) , headline , about us ,services , projects, Software Development Training programm,Blog, Contact us .
+- Contact area , provide a detailed form where company's and future employees can can contact us for acquiring our services or for being part of our team.
 - In the menu provide a login button (text + icon) on the right side.(for company's employees).
-- The menu bar is available on all pages.
 
-> **Icon Resources:** We recommend you use [FontAwesome](https://fontawesome.com/) for your icons.
+> **Icon Resources:**  [FontAwesome](https://fontawesome.com/).
 
-![Menu Bar](/img/menu-bar.jpg)
+![Menu Bar](/img/2.jpg)
 
-#### Display Blog Posts at Location
+#### Blog Post web section 
 
-- Make the markers clickable: on click, show the short preview of the blog post in the "InfoWindow".
 - It contains:
   - title
   - visiting date
   - authors image and name (can be hardcoded)
-  - Place a link, which links to the detail page: `/post/:id`
-
-![Map marker](/img/map-marker.jpg)
-
-
-### 5. Blog Page 
-
-#### Blog Post Previews
-
-- On the page, centre side , all blog posts are listed as previews.
-- The blogs are ordered ascending by visiting date.
-- Each preview contains:
-  - title
-  - visiting date
-  - authors image + name (can be hardcoded)
   - image
-  - When user clicks on one of the listed blog post than she gets linked to the detail page `/post/:id` for acquiring the company's services.
+  - text  
+  - When user clicks on one of the listed blog post, the person gets linked to the service`s page `/post/:id` for acquiring the company's services.  
+  -Talks about Topics like the lastest technology in IT and also about social, enviromental programs and solutions for a better planet.
+  - Talks about software development trainings in order to attract future employees with no experience.
+ 
+![Map marker](/img/3.jpg)
 
-![Preview](/img/blog-post-preview.jpg)
-
-
-**Content of a blog post**  
-A blog post should contain:
-  - title
-  - visiting date
-  - authors name
-  - image
-  - text
-  - location with city and country
 
 ![Blog Post Detail](/img/blog-post.jpg)
 
