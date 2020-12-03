@@ -36,11 +36,12 @@ Short brief introduction about the agency
 
 #### Services section 
 
- - Web App development
- - Mobile App Development
+ - Web App development : Online education platforms , restaurant & hotel management system, Agriculture Crop Management systems.
+ - Mobile App Development 
  - Data Base Software System
  - AI & Machine Learning 
-
+ 
+ ![Services](/img/3.jpg)
 
 #### Project & Sponsors section 
 
@@ -50,6 +51,8 @@ Short brief introduction about the agency
 
 - Project 3 
 
+![Projects ](/img/4.jpg)
+
 #### Software Trainings Section
 
 If you dont have enought experience, no problem at all! we train you and then you can join our team !
@@ -57,7 +60,8 @@ If you dont have enought experience, no problem at all! we train you and then yo
 'Conscientia Agency & Coding School is  offers an intensive bootcamps as well as part-time programs in Software development, UX/UI design, AI Machine Learning and Data analytics. 
 
  We do not only teach you the most in-demand tech skills, but we also focus on facilitating your job entry , expert talks and more to help you kick-start your career in one of our Agencies around the world.
-
+ 
+![Software ](/img/.jpg)
 
 #### Blog Post web section 
 
