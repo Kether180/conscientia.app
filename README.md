@@ -1,7 +1,7 @@
 
 # Project: Web, Mobile & Database Agency in React
 
-Web App & Single Web .
+Web App & Single site.
 
 Topic : Intelligent Web App Software and Mobile App Agency that will help companies to growth their businees and support social enviromental resposability projects by investing money from our earnings in green companies, organic farms and education with a consciousness prospective.
 
@@ -32,11 +32,19 @@ The dashboard shows an overview of the all services offered by the Agency.
 ![Menu Bar](/img/2.jpg)
 
 
+#### About section 
+
+
 #### Services section 
+
+
 
 #### Project section 
 
-####  section 
+
+#### Software Trainings Section
+
+
 #### Blog Post web section 
 
 - It contains:
@@ -54,79 +62,33 @@ The dashboard shows an overview of the all services offered by the Agency.
 
 ![Blog Post Detail](/img/blog-post.jpg)
 
-### 7. Imprint / Contact
+### Imprint / Contact Section
 
 - Create a link `/contact` in the menu bar named "Contact".
 - On the contact page place your (and your team mate's).
 - Write two sentences about your project.
-- Put your (or if you prefer [Hamburg Coding School's](https://hamburgcodingschool.com/contact/)) contact details:
+- Contact details:
   - name
   - address
   - email
   - phone number
-- Write a note that this was a project from a course at Hamburg Coding School.
 
 ### 8. World Map with Google Maps API
 
 - Use the [google-map-react](https://github.com/google-map-react/google-map-react) library to display a world map. for each office location, put a marker on the map at the location of the post.
 
-## Optional Bonus Tasks
+## Bonus Tasks
 
-### Bonus 1: Map for Blog Post Detail Page
-
-- On the Blog Post Detail page, place a the map on the right side next to the blog post.
-- The map shows centered the location of the blog post.
-
-![Map on Blog Post Detail](/img/bonus-map.jpg)
-
-### Bonus 2: Get Blog Posts from Backend
+### Bonus 2: Get Blog Posts from Backend ( can we do something where I can use these tools but not for a blog ?)
 
 - Create a seperate Node.JS, MongoDB application to handle the BackEnd
 - Serve your Blog Posts thourgh a REST Api with JSON.
 
-### Bonus 3: New Blog Post
+### Bonus 3:
 
 - With the path `/new` a blog post form is shown, where a new blog post can be added.
 - On submit, the new blog post is sent and stored to the backend.
 - The form is cleared after adding a new blog post and the user gets directed to the Dashboard, again.  
-
-  You can use the history hook provided by the React Router: `useHistory()`.
-
-  ```
-  import { useHistory } from "react-router-dom";
-
-  function HomeButton() {
-    let history = useHistory();
-
-    function handleClick() {
-      history.push("/home");
-    }
-
-    return (
-      <button type="button" onClick={handleClick}>
-        Go home
-      </button>
-    );
-  }
-  ```
-  You can read more about, how changing a route programmatically, here:
-  
-  - https://reacttraining.com/react-router/web/api/Hooks/usehistory
-  - https://reacttraining.com/react-router/web/api/history
-
-- For the images: Save the image in your project manually in the public folder and use it with relative path as string.  
-  For instance: The image `barcelona.jpg` saved under `public/images` can be linked in the templates with `"/images/barcelona.jpg"`.
-- Only signed in user can add new blog posts.
-
-![New Blog Post](/img/new-blog-post.jpg)
-
-### Bonus 4: Edit Blog Posts
-
-- At the `/post/:id` page, add an "edit" icon.
-- If the user clicks that, the blog post turns into editable mode and entries can be updated and saved.  
->  Take into consideration using the same form component, which you might have defined for creating new blog post.
-- The values of the form are pre-filled with the data from the blog post.
-- On form submit the blog post gets updated and sent to the Backend.
 
 
 ### Bonus 5. Authentication / Login
@@ -134,18 +96,18 @@ The dashboard shows an overview of the all services offered by the Agency.
 - If the login button is clicked, a login form is shown right below the login button under the menu bar.
 - The User can login with their email and password.
 - If successfully logged in, the login form disappears and instead of the login button a logout button is shown.
-- If logged in, there should be another button for adding a new blog post (icon + text: "New blog post") on the left of the logout button. It links to `/new`, where the logged-in user can add a new blog post.
-
-![Menu Bar](/img/login-logout.jpg)
-
+- If logged in, there should be another button  that will take employees to a new place ( time scheduler site ) on the left of the logout button. 
 
 ### Bonus 6: Provide a user profile page
 
-- Add a link in the menu bar, where the signed-in user can edit their profile.
+- Add a link in the menu bar, where the signed-in user( employee)  can edit their profile.
 - At the profile page, the signed-in user can upload a profile image and save their name.
 - Use this information, if available,
-  - on the page where a user can add new blog entries and
   - in the menu to show logged in users name and image.
+
+
+
+-----------------------------------------------------
 
 
 ## Submission
