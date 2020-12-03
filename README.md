@@ -22,7 +22,7 @@ The dashboard shows an overview of the all services offered by the Agency.
 ![Dashboard](/img/1.jpg)
 
 ### 2. Menu Bar
-- Menu bar : logo (of your choice) , headline , about us ,services , projects, Software Development Training Programm, Blog, Contact us .
+- Menu bar : logo, headline , about us ,services , projects, software development training Programm, blog, Contact us .
 
 > **Icon Resources:**  [FontAwesome](https://fontawesome.com/).
 
@@ -52,7 +52,7 @@ Short brief introduction about the agency
 
 #### Software Trainings Section
 
-If you dont have enought experience, no problem at alla! we train you and then you can join our team !
+If you dont have enought experience, no problem at all! we train you and then you can join our team !
 
 'Conscientia Agency & Coding School is  offers an intensive bootcamps as well as part-time programs in Software development, UX/UI design, AI Machine Learning and Data analytics. 
 
@@ -96,12 +96,6 @@ If you dont have enought experience, no problem at alla! we train you and then y
 
 - Create a seperate Node.JS, MongoDB application to handle the BackEnd
 - Serve your Blog Posts thourgh a REST Api with JSON.
-
-### Bonus 3:
-
-- With the path `/new` a blog post form is shown, where a new blog post can be added.
-- On submit, the new blog post is sent and stored to the backend.
-- The form is cleared after adding a new blog post and the user gets directed to the Dashboard, again.  
 
 
 ### Bonus 5. Authentication / Login
