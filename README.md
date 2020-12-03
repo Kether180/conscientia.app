@@ -18,14 +18,11 @@ Topic : Intelligent Web App Software and Mobile App Agency that will help compan
 The dashboard shows an overview of the all services offered by the Agency.
 - Left: Logo 
 - Center : Agency's name and a brief introduction
-- Right: Google Map with markers at the positions of the blog posts
 
 ![Dashboard](/img/1.jpg)
 
 ### 2. Menu Bar
-- Menu bar : logo (of your choice) , headline , about us ,services , projects, Software Development Training programm,Blog, Contact us .
-- Contact area , provide a detailed form where company's and future employees can can contact us for acquiring our services or for being part of our team.
-- In the menu provide a login button (text + icon) on the right side.(for company's employees).
+- Menu bar : logo (of your choice) , headline , about us ,services , projects, Software Development Training Programm, Blog, Contact us .
 
 > **Icon Resources:**  [FontAwesome](https://fontawesome.com/).
 
@@ -34,15 +31,32 @@ The dashboard shows an overview of the all services offered by the Agency.
 
 #### About section 
 
+Short brief introduction about the agency
+
 
 #### Services section 
 
+ - Web App development
+ - Mobile App Development
+ - Data Base Software System
+ - AI & Machine Learning 
 
 
-#### Project section 
+#### Project & Sponsors section 
 
+- Project 1 
+
+- Project 2
+
+- Project 3 
 
 #### Software Trainings Section
+
+If you dont have enought experience, no problem at alla! we train you and then you can join our team !
+
+'Conscientia Agency & Coding School is  offers an intensive bootcamps as well as part-time programs in Software development, UX/UI design, AI Machine Learning and Data analytics. 
+
+ We do not only teach you the most in-demand tech skills, but we also focus on facilitating your job entry , expert talks and more to help you kick-start your career in one of our Agencies around the world.
 
 
 #### Blog Post web section 
@@ -60,8 +74,6 @@ The dashboard shows an overview of the all services offered by the Agency.
 ![Map marker](/img/3.jpg)
 
 
-![Blog Post Detail](/img/blog-post.jpg)
-
 ### Imprint / Contact Section
 
 - Create a link `/contact` in the menu bar named "Contact".
@@ -72,8 +84,9 @@ The dashboard shows an overview of the all services offered by the Agency.
   - address
   - email
   - phone number
-
-### 8. World Map with Google Maps API
+  - Contact area , provide a detailed form where company's and future employees can can contact us for acquiring our services or for being part of our team.
+  
+### World Map with Google Maps API
 
 - Use the [google-map-react](https://github.com/google-map-react/google-map-react) library to display a world map. for each office location, put a marker on the map at the location of the post.
 
@@ -104,6 +117,8 @@ The dashboard shows an overview of the all services offered by the Agency.
 - At the profile page, the signed-in user can upload a profile image and save their name.
 - Use this information, if available,
   - in the menu to show logged in users name and image.
+
+
 
 
 
