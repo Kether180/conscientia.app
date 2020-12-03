@@ -13,7 +13,7 @@ Topic : Intelligent Web App Software and Mobile App Agency that will help compan
 
 ## Features
 
-### 1. Dashboard (Main Page)
+### 1.(Main Page)
 
 The dashboard shows an overview of the all services offered by the Agency.
 - Left: Logo 
@@ -53,7 +53,7 @@ Short brief introduction about the agency
 
 ![Projects](/img/4.jpg)
 
-#### Software Trainings Section
+#### Software Training Section
 
 If you dont have enought experience, no problem at all! we train you and then you can join our team !
 
@@ -115,8 +115,7 @@ If you dont have enought experience, no problem at all! we train you and then yo
   - in the menu to show logged in users name and image.
 
 
-
-
+![Software ](/img/1total.jpg)
 
 -----------------------------------------------------
 
