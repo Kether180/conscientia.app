@@ -51,7 +51,7 @@ Short brief introduction about the agency
 
 - Project 3 
 
-![Projects ](/img/4.jpg)
+![Projects](/img/4.jpg)
 
 #### Software Trainings Section
 
@@ -61,7 +61,7 @@ If you dont have enought experience, no problem at all! we train you and then yo
 
  We do not only teach you the most in-demand tech skills, but we also focus on facilitating your job entry , expert talks and more to help you kick-start your career in one of our Agencies around the world.
  
-![Software ](/img/.jpg)
+![Software ](/img/5.jpg)
 
 #### Blog Post web section 
 
@@ -75,8 +75,6 @@ If you dont have enought experience, no problem at all! we train you and then yo
   -Talks about Topics like the lastest technology in IT and also about social, enviromental programs and solutions for a better planet.
   - Talks about software development trainings in order to attract future employees with no experience.
  
-![Map marker](/img/3.jpg)
-
 
 ### Imprint / Contact Section
 
