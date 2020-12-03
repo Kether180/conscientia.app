@@ -1,7 +1,7 @@
 
 # Project: Web, Mobile & Database Agency in React
 
-Web App & Single site.
+Web App 
 
 Topic : Intelligent Web App Software and Mobile App Agency that will help companies to growth their businees and support social enviromental resposability projects by investing money from our earnings in green companies, organic farms and education with a consciousness prospective.
 
